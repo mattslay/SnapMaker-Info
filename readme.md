@@ -10,8 +10,12 @@ Snapmaker Luban is a free, open source CAM software developed by Shenzhen Snapma
 https://luban.xyz/
 
 ### Cura
-Cura is also freem and is a popular alternative to the default Luban, but requires additional configuration to optimize use with SnapMaker 2.0
+Cura is also freem and is a popular alternative to the default Luban, but requires additional configuration to optimize use with SnapMaker 2.0.
+If you know links to really good Cura/SnapMakeer configuraiton files, please post on the Issues page, or send me the info by email and I will add to this page.
+
 https://ultimaker.com/software/ultimaker-cura
+
+Here is one Cura/SM configuration project by community member "Slynolds" on GitHub: https://github.com/slynold/snapmakerconfiguration
 
 
 ### OctoPrint
