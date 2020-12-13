@@ -1,5 +1,8 @@
 # SnapMaker
-SnapMaker Community page for helpful links and info on using the SnapMaker 2.0 and related software, devices, materials, tools, etc.
+## 3-in-1 Printer - 3D Printing, Laser Enggraving, CNC Cutting
+This is a SnapMaker Community page with helpful links and info on using the SnapMaker 2.0 and related software, devices, materials, tools, etc.
+
+https://snapmaker.com/product/snapmaker-2
 
 Links:
 
@@ -16,7 +19,6 @@ If you know links to really good Cura/SnapMakeer configuraiton files, please pos
 https://ultimaker.com/software/ultimaker-cura
 
 Here is one Cura/SM configuration project by community member "Slynolds" on GitHub: https://github.com/slynold/snapmakerconfiguration
-
 
 ### OctoPrint
 OctoPrint is a free, open source 3D print controller application. It was created by Gina Häußge who initially developed the software to support her first 3D printer in 2012. OctoPrint was forked from Cura, and is available under the same AGPL license. Development is hosted on GitHub.
