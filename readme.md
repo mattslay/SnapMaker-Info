@@ -25,7 +25,7 @@ OctoPrint is a free, open source 3D print controller application. It was created
 https://www.simplify3d.com/
 
 
-### Discussion
+### Software Discussion
 There is a helplful list of discussions about the various software options on this SnapMaker forum post:
 
 https://forum.snapmaker.com/t/3d-printing-software/11178/15
