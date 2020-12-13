@@ -41,14 +41,15 @@ These videos dis-assembly and low-level maintenance of of the linear rails used 
 - https://www.facebook.com/groups/newsnapmaker/permalink/3466320290048040/
 
 ### 3D Printing head
-_<<Add links to buy new head, replacements heater, and replacement nozzles>>_
+_(Add links to buy new head, replacements heater, and replacement nozzles)_
 
 ### Laser head
 Some have said SnapMaker may be developing a higher powered laser head. Will add info or links here when available.
 
 ### CNC Milling head
-_<<Add links to buy new head and components>>_
-_<<Add links to buy replacement tool bits>>_
+_(Add links to buy new head and components)_
+ 
+_(Add links to buy replacement tool bits)_
 
 
 ## Filament (3D Printing)
