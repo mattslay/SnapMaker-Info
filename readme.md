@@ -95,6 +95,9 @@ https://www.thingiverse.com/
 
 https://all3dp.com/printables/
 
+https://www.yeggi.com/
+
+
 50 Best Sites & 3D Archives for Free 3D Models https://all3dp.com/1/free-3d-models-download-best-sites-3d-archive-3d/
 
 ## MDI Commands
