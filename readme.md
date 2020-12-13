@@ -4,7 +4,7 @@ This is a SnapMaker Community page with helpful links and info on using the Snap
 
 https://snapmaker.com/product/snapmaker-2
 
-Links:
+
 
 ## Software
 ### Luban
