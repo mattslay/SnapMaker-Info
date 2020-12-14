@@ -26,6 +26,12 @@ OctoPrint is a free, open source 3D print controller application. It was created
 - https://octoprint.org/
 - Wikipedia: https://en.wikipedia.org/wiki/OctoPrint
 
+
+Here is a video submitted by user John Aldred on Facebook page, _"Control your Snapmaker 3D printer over Wi-Fi using Octoprint and a Raspberry Pi"_
+
+https://youtu.be/WU27qWiyNjg
+
+
 ### Simplify3D
 (Paid $149 USD)
 https://www.simplify3d.com/
