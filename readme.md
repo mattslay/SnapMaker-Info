@@ -1,5 +1,5 @@
 # SnapMaker
-## 3-in-1 Printer - 3D Printing, Laser Enggraving, CNC Cutting
+## 3-in-1 Printer - 3D Printing, Laser Engraving, CNC Cutting
 This is a SnapMaker Community page with helpful links and info on using the SnapMaker 2.0 and related software, devices, materials, tools, etc.
 
 https://snapmaker.com/product/snapmaker-2
