@@ -4,7 +4,7 @@ This is a SnapMaker Community page with helpful links and info on using the Snap
 
 https://snapmaker.com/product/snapmaker-2
 
-
+Downloads: https://snapmaker.com/product/snapmaker-2/downloads
 
 ## Software
 ### Luban
@@ -44,7 +44,11 @@ https://forum.snapmaker.com/t/3d-printing-software/11178/15
 
 
 
-## SnapMaker hardware
+## SnapMaker Supplies
+
+### Replacement parts
+iMaker.com  https://www.imakr.com/snapmaker-spare-parts
+
 ### Linear Rails
 These videos dis-assembly and low-level maintenance of of the linear rails used on X,Y,Z. This give you some really good insight about this important part of the hardware:
 
@@ -52,8 +56,11 @@ These videos dis-assembly and low-level maintenance of of the linear rails used 
 
 - https://www.facebook.com/groups/newsnapmaker/permalink/3466320290048040/
 
-### 3D Printing head
-_(Add links to buy new head, replacements heater, and replacement nozzles)_
+### 3D Printing
+Replacement print head (iMaker.com): https://www.imakr.com/snapmaker-spare-parts/snapmaker-2-extruder-hot-end-kit
+Replacement print sheet (iMakr.com): https://www.imakr.com/snapmaker-spare-parts/snapmaker-2-print-sheet#/493-snapmaker_20-a350
+Replacement Nozzles: (Amazon) https://www.amazon.com/gp/product/B07PG6M1B1
+
 
 ### Laser head
 Some have said SnapMaker may be developing a higher powered laser head. Will add info or links here when available.
